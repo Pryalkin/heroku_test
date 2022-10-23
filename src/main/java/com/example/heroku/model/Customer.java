@@ -1,4 +1,4 @@
-package com.example.heroku;
+package com.example.heroku.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
